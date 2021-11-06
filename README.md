@@ -1,2 +1,2 @@
-# vscode-remote-dev_node
-Template of Node.js dev environment
+# trial-k8s-in-docker-desktop
+from Template of Node.js dev environment
