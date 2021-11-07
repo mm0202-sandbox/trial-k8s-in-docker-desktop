@@ -1,0 +1,6 @@
+{
+  "name": "trial-k8s-in-docker-desktop",
+  "scripts": {
+    "sample:upgrade": "helm upgrade -i sample ./src/sample/sample"
+  }
+}
